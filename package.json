@@ -1,0 +1,9 @@
+{
+  "name":"pinnora-black-box-demo",
+  "version":"1.0.0",
+  "private":true,
+  "type":"module",
+  "scripts":{"start":"node server.js"},
+  "engines":{"node":">=20"},
+  "dependencies":{"express":"^4.21.2","express-rate-limit":"^7.5.0","cheerio":"^1.0.0"}
+}
